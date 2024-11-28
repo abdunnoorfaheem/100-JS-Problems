@@ -1,0 +1,354 @@
+A. Basic Syntax (10 problems)
+
+1. Print "Hello, World!" to the console.
+
+
+2. Declare a variable and assign it a value.
+
+
+3. Write a function to return the sum of two numbers.
+
+
+4. Create a constant and try reassigning it (observe the error).
+
+
+5. Write a function to check if a number is even or odd.
+
+
+6. Create an array and access its first and last elements.
+
+
+7. Write a program to find the largest of three numbers.
+
+
+8. Demonstrate the use of typeof operator.
+
+
+9. Write a function to reverse a string.
+
+
+10. Use console.log() to debug a variable inside a function.
+
+
+
+
+---
+
+B. Numbers and Operators (10 problems)
+
+11. Perform addition, subtraction, multiplication, and division of two numbers.
+
+
+12. Calculate the remainder of a division using the % operator.
+
+
+13. Increment and decrement a variable.
+
+
+14. Round a decimal number to the nearest integer.
+
+
+15. Generate a random number between 1 and 10.
+
+
+16. Write a function to calculate the factorial of a number.
+
+
+17. Check if a number is prime or not.
+
+
+18. Convert a string to a number using parseInt and parseFloat.
+
+
+19. Write a program to find the greatest common divisor (GCD) of two numbers.
+
+
+20. Calculate the power of a number using Math.pow or the exponentiation operator (**).
+
+
+
+
+---
+
+C. Strings (10 problems)
+
+21. Concatenate two strings.
+
+
+22. Find the length of a string.
+
+
+23. Convert a string to uppercase and lowercase.
+
+
+24. Extract a substring from a string.
+
+
+25. Find the index of a character in a string.
+
+
+26. Check if a string starts with a specific substring.
+
+
+27. Replace a word in a string using replace.
+
+
+28. Split a string into an array of words.
+
+
+29. Write a function to count vowels in a string.
+
+
+30. Reverse the words in a sentence.
+
+
+
+
+---
+
+D. Arrays (10 problems)
+
+31. Create an array and add elements to it.
+
+
+32. Remove the first and last elements of an array.
+
+
+33. Write a function to find the largest number in an array.
+
+
+34. Write a function to find the smallest number in an array.
+
+
+35. Sort an array in ascending order.
+
+
+36. Use map to square all elements in an array.
+
+
+37. Use filter to get even numbers from an array.
+
+
+38. Find the index of a specific element in an array.
+
+
+39. Use reduce to calculate the sum of all elements in an array.
+
+
+40. Merge two arrays into one.
+
+
+
+
+---
+
+E. Objects (10 problems)
+
+41. Create an object with properties name, age, and gender.
+
+
+42. Access object properties using dot and bracket notation.
+
+
+43. Add a new property to an existing object.
+
+
+44. Delete a property from an object.
+
+
+45. Write a function that takes an object and prints all its keys.
+
+
+46. Write a function that takes an object and prints all its values.
+
+
+47. Check if a property exists in an object.
+
+
+48. Write a function to merge two objects.
+
+
+49. Write a function to clone an object.
+
+
+50. Create a nested object and access its properties.
+
+
+
+
+---
+
+F. Functions (10 problems)
+
+51. Write a function with default parameters.
+
+
+52. Write an arrow function to multiply two numbers.
+
+
+53. Write a function that takes a callback function as an argument.
+
+
+54. Create an IIFE (Immediately Invoked Function Expression).
+
+
+55. Write a function to calculate the Fibonacci sequence up to n terms.
+
+
+56. Write a function to check if two strings are anagrams.
+
+
+57. Write a function to flatten a nested array.
+
+
+58. Write a function to count occurrences of each element in an array.
+
+
+59. Write a function that returns another function.
+
+
+60. Write a recursive function to calculate the sum of numbers from 1 to n.
+
+
+
+
+---
+
+G. Loops (10 problems)
+
+61. Print numbers from 1 to 10 using a for loop.
+
+
+62. Print even numbers from 1 to 20 using a while loop.
+
+
+63. Use a do-while loop to add numbers from 1 to 10.
+
+
+64. Write a loop to iterate over an array.
+
+
+65. Use a for...of loop to iterate over an array.
+
+
+66. Use a for...in loop to iterate over an object.
+
+
+67. Break out of a loop when a condition is met.
+
+
+68. Use continue to skip an iteration in a loop.
+
+
+69. Write a nested loop to print a multiplication table.
+
+
+70. Write a loop to count the number of times a specific value appears in an array.
+
+
+
+
+---
+
+H. DOM Manipulation (10 problems)
+
+71. Select an element by its ID and change its text content.
+
+
+72. Select elements by class name and change their styles.
+
+
+73. Add a new element to the DOM.
+
+
+74. Remove an element from the DOM.
+
+
+75. Change the src attribute of an image element.
+
+
+76. Write a function to handle a button click event.
+
+
+77. Add a CSS class to an element.
+
+
+78. Toggle a CSS class on an element.
+
+
+79. Create a simple form and validate its input using JavaScript.
+
+
+80. Write a program to fetch data from an API and display it on the page.
+
+
+
+
+---
+
+I. Error Handling (10 problems)
+
+81. Use try...catch to handle errors.
+
+
+82. Throw a custom error message.
+
+
+83. Write a function that throws an error if an argument is missing.
+
+
+84. Use finally to execute code after try...catch.
+
+
+85. Write a function to handle invalid JSON data.
+
+
+86. Use console.error to log an error message.
+
+
+87. Handle a rejected Promise using .catch().
+
+
+88. Write a program to check if a user input is valid JSON.
+
+
+89. Use setTimeout to simulate an async error.
+
+
+90. Create a custom error class and throw an error using it.
+
+
+
+
+---
+
+J. Advanced Topics (10 problems)
+
+91. Write a program to demonstrate closures.
+
+
+92. Use setTimeout and setInterval in a program.
+
+
+93. Write a program to demonstrate the use of Promises.
+
+
+94. Write an async function using async and await.
+
+
+95. Create a simple stopwatch using JavaScript.
+
+
+96. Write a program to debounce a function.
+
+
+97. Write a program to throttle a function.
+
+
+98. Demonstrate the use of this in different contexts.
+
+
+99. Write a program to demonstrate call, apply, and bind.
+
+
+100. Create a program that implements a basic class with inheritance.
